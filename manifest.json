@@ -1,0 +1,14 @@
+{
+    "name": "World of The Day",
+    "version": "0.01",
+    "description": "expand your mind with a word of the day",
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    },
+    "background": {
+        "paper": "background.html",
+        "persisten": false 
+    
+    },
+    "manifest_version":2
+    }
